@@ -1,0 +1,62 @@
+*{
+    margin: 10px;
+    font-family: 'Poppins', sans-serif;
+    width: 1250px;
+    line-height: 40px;
+}
+
+header{
+    background-color:blanchedalmond;
+    height: 1300px;
+}
+
+main{
+    margin-top: -10px;
+    background-color: blanchedalmond;
+    margin-left: 380px;
+    margin-top: -1250px;
+    width: 880px;
+}
+
+#foto{
+    height: 350px;
+    width: 250px;
+    box-shadow: -10px 5px 5px;
+    margin-left: 40px;
+}
+
+#portafolio{
+    margin-top: -295px;
+}
+
+#portafolio-foto{
+    height: 350px;
+    width: 450px;
+}
+
+.intereses{
+    margin-left: -370px;
+    margin-top: 20px;
+}
+
+#nombre{
+    color: white;
+    background-color: blue;
+    width: 345px;  
+}
+
+.bloque{
+    margin-top: 30px;
+}
+
+.habilidades-bloque{
+    margin-top: 30px;
+}
+
+.profile-description{
+    margin-top: 10px;
+}
+
+#perfil_personal{
+    margin-top: 30px;
+}
